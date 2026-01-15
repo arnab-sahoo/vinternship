@@ -312,6 +312,35 @@ After completing all ViBe videos:
 **9.4 What comes after Case Studies?**  
 After completing case studies, you move to the third component: **Practical Learning (Projects)**. You will contribute to real open-source projects, working with our developers to build real applications and add new features.
 
+**9.5 How do I submit the case studies?**  
+
+1. Visit the submission form: Will be updated soon.
+2. Fill in all required details carefully, including:
+   - First name and last name  
+   - Email ID associated with the internship  
+   - Technology name and lesson number completed  
+3. Upload the file containing your solution  
+   (supported formats include `.js`, `.ts`, `.txt`, `.zip`, etc.)
+4. Review your details and submit the form.
+5. Repeat this process for **each lesson** you complete.
+
+
+**9.6 What should I do if a lesson contains multiple files?**  
+For lessons (such as React) that involve **multiple files**, compress all related files into a **single ZIP file** and upload the ZIP file during submission.
+
+
+**9.7 Where can I get help if I am stuck with the case studies?**  
+If you are facing difficulties, feel free to:
+- Join the **breakout rooms** during Zoom sessions  
+- Collaborate and discuss solutions with your peers  
+
+This collaborative approach is encouraged to enhance learning and problem-solving skills.
+
+
+**9.8 Where can I view my submission status and access the leaderboard and dashboard?**  
+You can track your submission status, access the leaderboard, and view the dashboard by visiting the Pinternship Live Dashbord section on website homepage.
+
+
 ## 10. Ejection Policy
 
 **10.1 What is the Ejection Policy?**  
