@@ -12,3 +12,19 @@ layout: home
 ## 📊 Pinternship Live Dashboard
 ➡️ [Open Live Dashboard](./dashboard.html)
 
+**Quick Guide:** To get a complete overview of the program structure and learning journey, start with the [Introduction](./intro/). Review the [FAQ](./faq/) to understand detailed policies and common questions. For current updates, deadlines, important messages, and upcoming activities, regularly check [Announcements](./announcements/). Visit the [Case Studies](./case-studies/) section for your MERN practice problems, and explore the [Projects](./projects/) section to discover and track the larger internship projects you may want to work on. When new activities are announced (such as LinkedIn Posts, Blogs, Vlogs, and Endorsements), use the **Activity** links in the top navigation to access detailed instructions. For additional references, guides, and helpful materials, visit the **Resources** section in the navigation.
+
+
+## 📢 Announcements
+
+{% assign announcements_page = site.pages | where: "permalink", "/announcements/" | first %}
+{% for announcement in announcements_page.announcements limit:2 %}
+{{ forloop.index }}. **[{{ announcement.title }}](./announcements/)** ({{ announcement.date }})  
+   {{ announcement.description | truncatewords: 20 }}
+{% endfor %}
+
+➡️ [View All Announcements](./announcements/)
+
+
+<!-- ---
+[Important Links](./important_links/) -->

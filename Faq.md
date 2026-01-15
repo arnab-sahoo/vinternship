@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-parent: Help
+parent: Resources
 permalink: /faq/
 order: 2
 ---
@@ -18,6 +18,7 @@ order: 2
 8. [Cliq Channel](#8-cliq-channel)
 9. [MERN Case Studies](#9-mern-case-studies)
 10. [Ejection Policy](#10-ejection-policy)
+11. [Viva/PES (Self-Healing Endorsement Network)](#11-vivapes-self-healing-endorsement-network)
 
 ---
 
@@ -33,7 +34,7 @@ The internship follows a structured timeline with specific milestones and delive
 The internship will be conducted in **online mode only**.
 
 **1.4 Are there fixed timings or live sessions?**  
-The program includes scheduled live sessions, workshops, and mentorship meetings that are optional.
+The program includes scheduled live sessions, workshops, and mentorship meetings. The timings for these sessions will be conveyed well in advance.
 
 ---
 
@@ -43,10 +44,38 @@ The program includes scheduled live sessions, workshops, and mentorship meetings
 The program will be conducted strictly in **online mode**.
 
 **2.2 Is attendance tracked in this internship?**  
-No, it is completely self paced and open internship.
+Attendance is compulsory for the standups that are scheduled for every Monday, Wednesday and Friday at 8:45 PM. For other activities also the attendance is tracked.
 
 **2.3 Do I need to use a specific name or email for the internship?**  
 Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Cliq, etc.) for proper tracking of your progress.
+
+**2.4 Should I fill the attendance form attached to the NPTEL offer letter?**  
+Yes. You must fill the **Google Form provided in the NPTEL offer letter** **every day** during your internship (**except Sundays**).
+
+Guidelines:
+- Fill in all required details **daily**
+- The form should be preferably filled **in the evening**, after completing the day’s work
+- This form is **mandatory** for marking your attendance on **NPTEL’s side** throughout the internship
+
+**2.5 I forgot to fill the attendance form attached to the NPTEL offer letter yesterday. What should I do now?**  
+Unfortunately, there is nothing that can be done, as the form is used for **NPTEL’s official database** and attendance **cannot be recorded for the previous day**. The previous day will be considered as a leave and two such days will automatically lead to termination.
+
+Please ensure that the form is filled **daily** going forward to avoid missing attendance again.
+
+**2.6 How can I avail the one-day leave allowed during the internship?**  
+Taking leave is **discouraged**, as you may miss important updates shared during live sessions or fall behind in your progress. It will be **your own responsibility** to complete the work missed on the leave day.
+
+However, if you must take the leave, follow the steps below:
+
+- Write a message in the **main Cliq Channel** stating the reason for your leave
+- Tag **@Nitin Sankar A** sir, **@Jinal Gupta** ma’am, and **@Harshdeep R** ma’am in the message
+- Post the request **at least one day in advance**
+- Clearly mention:
+  - The **reason** for the leave
+  - The **exact date** on which you intend to take the leave
+
+Once submitted, the request will be reviewed and processed by the team.
+
 
 ---
 
@@ -56,11 +85,16 @@ Yes. You must use the **same name and email ID** used during registration across
 The instructor **may interact** with participants depending on project requirements.  
 Mentors and coordinators will engage via **live sessions** and **forums**.
 
+**3.2 Do we get to meet our mentors?**  
+Yes, your project mentors can schedule a meeting based on the doubts and issues you are facing in the projects or in the learning phase.
+
 ---
 
 ## 4. Support and Resolution Protocol
 
 **4.1 Where do I raise my concern initially?**  
+Initially, try to get your query resolved from the FAQ or from your fellow interns in the Cliq channels. If the query is still not resolved, you can mail your query to the email ID below.
+
 Email **pinternship-support@vicharanashala.zohodesk.in**.  
 Responses are provided **within 2 hours** between **9:00 AM and 9:00 PM**.
 
@@ -72,19 +106,10 @@ Raise a **second ticket** with the subject:
 The **Mentors Team**, via a **voice call**.
 
 **4.4 How do I escalate further?**  
-After **48 hours**, email the **Program Sponsor**, CC'ing:
-- Prof. Sudarshan Iyengar  
-- Faculty reference  
-- Department HOD  
-- vled@iitrpr.ac.in  
+Use the **Pinternship - Escalation** Cliq channel to raise your concern. We recommend that please follow the escalation policy.
 
-Include ticket numbers and dates.
-
-**4.5 Why include faculty reference and HOD?**  
-For **transparency**, **accountability**, and faster resolution.
-
-**4.6 Is this escalation process mandatory?**  
-Yes. This **three-step process** must be followed.
+**4.5 Is this escalation process mandatory?**  
+Yes, this **three-step process** must be followed.
 
 ---
 
@@ -92,13 +117,14 @@ Yes. This **three-step process** must be followed.
 
 **5.1 What are the program completion criteria?**  
 - Completion of **all ViBe platform course modules** (Required)
-- **Optional:** Case studies for additional learning and recognition
+- Completion of case studies provided for learning using the code. (Required)
+- Contribution to real-time applications or projects.
 
 **5.2 Where can I find information on certification?**  
-Please refer to the official communication from VLED Lab or contact the program coordinators for information on certification requirements and process.
+Please refer to the official communication from VLED Lab or contact the program coordinators (NPTEL) for information on certification requirements and the process.
 
 **5.3 Will recommendation letters be provided?**  
-Not guaranteed. Issued **at the instructor's discretion** based on performance and engagement.
+Not guaranteed. They are issued **at the instructor's discretion** based on performance and engagement.
 
 ---
 
@@ -111,10 +137,10 @@ This is a self-paced program, but you are expected to maintain steady progress t
 If you remain inactive or fail to make reasonable progress over an extended period, we may discontinue your access to the program. The program has a 2-month duration with a possible 15-day extension based on individual circumstances. This policy helps ensure that active learners have the best support and resources.
 
 **6.3 Can I appeal a discontinuation decision?**  
-No. Discontinuation decisions are **final** and cannot be appealed.
+No, discontinuation decisions are **final** and cannot be appealed.
 
 **6.4 Can I rejoin the program after discontinuation?**  
-No. Once discontinued, you cannot rejoin the current program. You would need to apply fresh for any future program offerings, subject to availability.
+No, once discontinued, you cannot rejoin the current program. You would need to apply afresh for any future program offerings, subject to availability.
 
 **6.5 How does the Discontinuation Policy differ from the Ejection Policy?**  
 The Discontinuation Policy addresses prolonged inactivity at an administrative level, while the Ejection Policy (see Section 10) is a real-time, algorithm-based mechanism focused on maintaining cohort momentum and learning quality.
@@ -127,13 +153,13 @@ The Discontinuation Policy addresses prolonged inactivity at an administrative l
 Invite link → Continue as Student → Continue with Google → Dashboard.
 
 **7.2 Invite accepted but shows "No course enrolled"?**  
-Verify email → Check alias → Contact Support.
+Verify email → Check alias → Contact support.
 
 **7.3 Why are videos stuck or repeating?**  
 Sequential viewing, camera/mic access, lighting, and noise conditions matter.
 
-**7.4 Can I use mobile or tablet?**  
-No. Only **desktop/laptop** is supported.
+**7.4 Can I use a mobile or tablet?**  
+No, only **desktop/laptop** is supported.
 
 **7.5 I'm experiencing video issues (stuck, looping, skipping) on ViBe. How do I troubleshoot?**
 Try these troubleshooting steps in order:
@@ -168,7 +194,7 @@ Follow these steps **only on a laptop or desktop** (mobile is not supported):
 2. Sign up or log in to **Zoho Cliq using Google**, using the **same email ID** on which you received the invite.
 3. In the left navigation bar, select **#Channels**.
 4. Click on the **Join** button.
-5. Locate **#Pinternship** and click **Join**.
+5. Locate all the channels starting with the name **Pinternship** and click **Join**.
 
 **8.2 I am unable to join the Cliq Channel due to the message “Collaboration with different regional external users in Zoho Cliq is disabled”. What should I do?**  
 
@@ -188,7 +214,7 @@ If the issue persists, take a **screenshot or screen recording** clearly showing
 
 This issue is usually caused by restricted collaboration permissions.
 
-Follow the steps mentioned in **10.2** to enable **Universal Access**, then refresh the page.
+Follow the steps mentioned in **8.2** to enable **Universal Access**, then refresh the page.
 
 If you are still unable to send messages, take a **screenshot or screen recording** of the issue, briefly explain the problem, and email it to:  
 **pinternship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
@@ -273,7 +299,7 @@ After completing all ViBe videos:
 3. Read the entire documentation carefully to understand the concept and tasks to be performed.
 4. Try to understand each case study first, then attempt to code a solution for it.
 5. Open a code editor (for example, **VS Code**) and implement the tasks.
-6. Getting stuck is normal - ask questions on Cliq, revisit the ViBe videos, and discuss with others.
+5. Getting stuck is normal — ask questions on Cliq, revisit the ViBe videos, and discuss with others.
 7. Submit your work using the provided submission link.
 
 **9.4 What comes after Case Studies?**  
@@ -324,3 +350,151 @@ No. Ejection decisions are **final and non-appealable**, as they are based on ob
 
 **10.10 Does being ejected affect future opportunities?**  
 Backward Ejection removes you from the current cohort only. Forward Ejection, however, may open pathways to advanced leadership roles or fellowship nominations based on demonstrated excellence and reflective learning practices.
+
+---
+
+## 11. Viva/PES (Self-Healing Endorsement Network)
+
+**11.1 What is the Self-Healing Endorsement Network?**  
+The **Self-Healing Endorsement Network** is the official evaluation framework used for **Viva/PES**.
+
+It is a **peer-driven endorsement system** where interns endorse each other’s learning and contributions. All endorsements together form a **connected endorsement network**.
+
+For the network to remain valid:
+- Every chain of endorsements must **ultimately connect to a certified “Jedi”** (i.e., a **Silver, Bronze, or Gold ticket holder**)
+- Any group of interns not connected to a Jedi forms a **floating island**
+- Floating islands are considered **inactive**, and endorsements within them **will not be counted**
+
+
+**11.2 Who are the Jedi and what role do they play?**  
+A **Jedi** is an intern who holds a **Silver, Bronze, or Gold ticket**.
+
+Their role in the network:
+- All endorsement paths must **eventually link to a Jedi**
+- Jedi act as **anchors** that validate and legitimize endorsement chains
+
+
+**11.3 Is endorsement mandatory to complete the internship?**  
+Yes, **every non-Jedi intern must receive one valid endorsement** to successfully complete the internship.
+
+Important points:
+- Endorsements **must be completed within the given deadline**
+- The final endorsement graph must **not contain any floating islands**
+- Interns who remain **unendorsed or disconnected** risk **non-completion of the internship**
+
+
+**11.4 How many endorsements can I receive or give?**  
+- Each intern can **receive only one endorsement**
+- An intern may **endorse multiple other interns**
+- There is **no upper limit** on how many endorsements you can give  
+
+However, a **tree with greater length rather than breadth** is encouraged to maintain strong, meaningful chains rather than shallow mass endorsements.
+
+
+**11.5 When am I allowed to endorse someone?**  
+You may endorse anyone **at your discretion**, after assessing them in any way you find appropriate.
+
+Recommended best practices:
+- Interact with the intern before endorsing them
+- Ensure they demonstrate **sufficient understanding of the MERN stack**, **ViBe course content**, and **case studies**
+- Maintain a **healthy and collaborative interaction** — there is **no hierarchy or superiority** among co-interns, so please ensure that you interact with your co-interns in a friendly manner as peers
+
+⚠️ **Important Warning:**  
+Endorsing someone with **inadequate MERN fundamentals** may trigger **audit penalties** for the **entire tree or subtree** connected to that endorsement.
+
+
+**11.6 Can I endorse or be endorsed by someone from my own college?**  
+Yes, this is **allowed**.
+
+However:
+- Endorsements within the **same institute may raise suspicion**
+- Such connections have a **higher probability of being audited** by **Bhavna ma’am**
+
+This is **not prohibited**, but interns are expected to endorse **responsibly and ethically**.
+
+
+**11.7 How do audits work in the endorsement network?**  
+Audits are conducted by **Bhavna ma’am** to identify defaulters and irregularities.
+
+If a **defaulter** is identified:
+- The **entire endorsement path** connected to that intern is audited
+- A **50% health point penalty** is applied to everyone in that connected group
+- The **defaulter and anyone who fails the audit** are **removed from the network**
+
+
+**11.8 What happens if I am certified as “good” during an audit?**  
+If an intern is certified as **“good”** by Bhavna ma’am:
+- They become **eligible to be endorsed by anyone**, even if they were previously disconnected
+- Their **credibility and trust score** within the network increases
+
+
+**11.9 What incentives exist within the endorsement network?**  
+The network is intentionally designed to be **self-healing and incentive-driven**.
+
+Whenever a new intern joins a **valid connected endorsement group**:
+- Every existing member receives a **5% health point increase**
+- The increase is calculated as:
+  - **5% of their current health points**, plus  
+  - **5% of the new member’s health points**
+
+This encourages:
+- Formation of **strong, connected networks**
+- Avoidance of risky or isolated endorsement chains
+
+
+**11.10 What data is used to manage endorsements?**  
+Endorsements are tracked using a **three-column dataset**:
+
+- **Member 1** → the endorser  
+- **Member 2** → the endorsed intern  
+- **Action** → endorsement or de-endorsement
+
+Possible actions:
+- **Add** → Member 1 endorsed Member 2  
+- **Delete** → Member 1 de-endorsed Member 2  
+- **Default** → Member 1 is a defaulter and Member 2 is the parent in the chain  
+
+This dataset is used to:
+- Track endorsement paths
+- Detect floating islands
+- Conduct audits efficiently
+
+
+**11.11 How do I submit endorsements? (Google Form instructions)**  
+All endorsements and de-endorsements must be submitted through the **official Google Form**:
+
+🔗 **Endorsement Form Link:**  
+TBD
+
+The form contains **mandatory sections**:
+1. **Endorser’s Name and Email**
+2. **Endorsed Person’s Name and Email**
+3. **Endorsement Status**
+   - `Added` → for endorsement  
+   - `Deleted` → for de-endorsement  
+4. **Remarks**  
+   - Write short, honest remarks based on your assessment
+
+📌 **Important Guidelines:**
+- The form should be filled **only once per endorsement**
+- The **endorser** should fill the form
+- Avoid duplicate or reciprocal entries
+
+<!-- ⏳ **Deadline:**  
+All endorsements and de-endorsements must be completed **by Friday 16th January 2026**. -->
+
+
+**11.12 What should interns keep in mind while endorsing others?**  
+- Avoid careless, bulk, or reciprocal endorsements
+- Ensure your endorsement chain **connects to a Jedi**
+- Endorse based on **knowledge, effort, and contribution**
+- Be mindful that poor endorsements can cause **audit cascades**
+
+The Self-Healing Endorsement Network rewards **integrity, collaboration, responsibility, and accountability**.
+
+<!-- **11.13 Will Bhavna ma’am conduct Viva sessions in the future so that interns can become Jedi (Bronze ticket holders)?**  
+
+No, Bhavna ma'am will unfortunately **not conduct Viva sessions anymore**. She will only perform audit checks in the form of viva to identify defaulters/anomalies.
+Earlier, clearing the Viva conducted by Bhavna ma’am allowed interns to become **Bronze ticket holders**. Since this process has now been discontinued, the **set of existing Jedi (Silver, Bronze, and Gold ticket holders) is fixed**.
+
+No new Jedi will be added through Viva going forward. -->
