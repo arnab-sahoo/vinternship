@@ -37,7 +37,7 @@ The internship will be conducted in **online mode only**.
 The program includes scheduled live sessions, workshops, and mentorship meetings. The timings for these sessions will be conveyed well in advance.
 
 **1.5 Where can I find the Internship ID?**  
-**The Internship ID will be mentioned in the offer letter sent by NPTEL POC.**
+The Internship ID will be mentioned in the offer letter sent by NPTEL POC.
 
 ---
 
